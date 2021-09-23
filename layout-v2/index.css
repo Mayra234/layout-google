@@ -40,18 +40,17 @@ body {
   text-decoration: underline;
 }
 
-.head-3:hover,
-.head-4:hover {
+.header-icon:hover {
   background: rgb(233, 232, 232);
   border-radius: 50%;
 }
 
-.img-1 {
+.dots {
   width: 15px;
   height: 15px;
 }
 
-.img-2 {
+.avatar {
   border-radius: 50%;
 }
 
